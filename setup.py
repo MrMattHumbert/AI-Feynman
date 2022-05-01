@@ -27,13 +27,13 @@ with open("README.md", "r") as fh:
 
 setup(
     name='aifeynman',
-    version='2.0.7',
+    version='2.0.8',
     description='AI Feynman: a Physics-Inspired Method for Symbolic Regression',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url='https://github.com/SJ001/aifeynman',
-    author='Silviu-Marian Udrescu',
-    author_email='sudrescu@mit.edu',
+    url='https://github.com/MrMattHumbert/aifeynman',
+    author='Matthew Humbert',
+    author_email='mr.matthumbert@gmail.com',
     license='MIT',
     packages=['aifeynman'],
     package_dir={'aifeynman': 'aifeynman'},
